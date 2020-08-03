@@ -1,0 +1,10 @@
+What type of resources can you host with Express?
+standard files (JS, CSS, HTML)
+APIs, Data from them.
+
+What are the benefits of using a View Engine overusing Vanilla technologies?
+Being able to mesh JavaScript and HTML
+Reduced loading after the initial download of the website
+
+Why does the Express Generator split up the functionality into so many files?
+Seperation of concerns - Organization -> Easily distinguished -> Maintainability -> Better Developer Mental Health
